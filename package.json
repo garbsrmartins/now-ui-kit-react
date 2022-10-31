@@ -15,7 +15,6 @@
     "react-scripts": "5.0.1",
     "reactstrap": "8.9.0",
     "sass": "8.19.2"
-    "node-sass": "^8.19.2"
   },
   "scripts": {
     "start": "react-scripts start",
